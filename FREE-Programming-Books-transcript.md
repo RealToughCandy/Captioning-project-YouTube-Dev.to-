@@ -1,0 +1,21 @@
+## FREE Programming Books (& courses & code playgrounds) | Best of GitHub with RealToughCandy ##
+
+[YouTube Link to Video](https://www.youtube.com/watch?v=AezH5ef1_3U)
+
+With tens of millions of repos on GitHub, it's a veritable goldmine for developers. In this video, I'm maxing out GitHub's search function and bringing you the Best of GitHub, showcasing some great open source repos you can use to your advantage.
+
+The video starts right now. (Intro music)
+
+What's up, developers? It's RealToughCandy from RealToughCandy.com back online with you guys today for another installation of the Best of GitHub. This video I got something for you bargain hunters out there...a repo dedicated to free programming books, but not just books, we also have courses, screencasts, podcasts, oh yes. We're talking multimedia overload, delicious multimedia overload. Let's go over a few stats on this repo.
+
+This is brought to us by the Ebook Foundation, and the name of the repo is Free Programming Books. About 31,000 forks, 125,000 plus stars, almost 126K, I will make my contribution, and 8,171 watchers. As this repo notes, this list was actually a clone of Stack Overflow - List of Freely Available Programming Books, but because it became so massive, they moved it over to GitHub and now it's administered by the Free Ebook Foundation. The thing with this repo is that it can be a little confusing, so I'm looking through it, and I'm like "Ok, how to share, written in other languages, free online courses?, interactive programming resources? WHERE ARE MY BOOKS????"
+
+So, the book list is actually up here. Let's go check this out, and this is truly a massive list. Start with Ada...Agda, Alef, Android, and you name the language, it's gonna be here. Name the technology, it probably is gonna be here if it has to do with programming or web development. Let's go to one I know everyone is interested in knowing more about, free JavaScript books. Oh, but you have your choices my friend, from Angular down to D3 and Dojo, Elm, Ember, down to Redux, React Native. Let's check out...I don't know...what what...let's check out React. Okay. So here are all the free books on React. React on Rails is apparently a thing, Hacking with React, Intro to the React Framework, let's check this one out. And this links not to a book, but to a blog post, so I think they say book as an umbrella term...any type of written work on a technology, cuz this is definitely not book-length, it's a REALLY thorough blog post, but definitely not book status, so something to be aware of if you're trying to get like 500 page books for all these things...yeah, I might be disappointed.
+
+So there's a lot of tutorials here...React Native Animation Book? That might be kinda cool. This is an actual book...so here's an example of an actual book on the web, React Native Animation Book, and as you can see here, the different topics. Linux also has a pretty good selection here. There's the Ubuntu Server Guide? This might be really useful, actually. This is a PDF file, but this book is over 400 pages, and actually I'm puttin' this right on my bookmarks after this video.
+
+Our poor neglected friend, PHP, also has quite a bit of action here...PHP 5, PHP Best Practices, PHP Pandas, Survive the Deep End: PHP Security. This actually might be pretty good. PostgreSQL, PowerShell...I don't need to list every one of these, you guys get the idea. It's just really, really robust here. But that's just the book section. Because down here we have online courses for free, interactive programming resources for free, problem sets, podcasts? Ooh, I need to get the Freelance Newbie podcast on this thing. If it, if it, fits their criteria. And programming playgrounds...free programming playgrounds, so. 
+
+You do have to pick and choose because they mix the not-so-good ones with the really good ones, so definitely do your homework, but so many good options here. This one is called Free Programming Books, link in the description box, brought to us by the Ebook Foundation. Thank you, Ebook Foundation, for an amazing repo, so robust, lots of great stuff going on. Thanks guys for watching. I'll see you in the next video.
+
+(Exit music)
