@@ -2,7 +2,7 @@
 
 [Yotube Link](https://www.youtube.com/watch?v=PyplUv-PTFg)
 
-Setting on a bike because I'm getting fat, I am just so fat I sit all day and I type away fuck you MongoDB
+Setting on a bike because I'm getting fat, I am just so fat I sit all day and I type away f-you MongoDB
 
 [music]
 
